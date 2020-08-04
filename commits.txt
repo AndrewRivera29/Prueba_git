@@ -1,0 +1,17 @@
+commit 27537cbb62a608917aff6d740be5afddfd5fff1c
+Author: Andrés <andrewrivera1067@gmail.com>
+Date:   Tue Aug 4 11:36:21 2020 -0600
+
+    Agregamos git add y la definición y la corrección del titulo de la pestaña de la página
+
+commit 80885b50b5d356400a25b6e07d4b1cea80b05aa2
+Author: Andrés <andrewrivera1067@gmail.com>
+Date:   Tue Aug 4 11:15:02 2020 -0600
+
+    Agregamos definición de git status
+
+commit e245d5179ab634821c24d531e75e90805dab503f
+Author: Andrés <andrewrivera1067@gmail.com>
+Date:   Tue Aug 4 11:07:55 2020 -0600
+
+    Iniciamos
